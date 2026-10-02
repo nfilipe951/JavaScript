@@ -1,0 +1,20 @@
+[
+  {
+    "codigo": 201,
+    "descricao": "Aço SAE 1020",
+    "quantidade": 50,
+    "valorUnitario": 32.5
+  },
+  {
+    "codigo": 202,
+    "descricao": "Alumínio",
+    "quantidade": 30,
+    "valorUnitario": 28.9
+  },
+  {
+    "codigo": 203,
+    "descricao": "Polímero ABS",
+    "quantidade": 80,
+    "valorUnitario": 12.4
+  }
+]
